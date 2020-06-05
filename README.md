@@ -1,2 +1,1 @@
-# -
-Hooinkyoma‘s 自用图床
+# Hooinkyoma‘s 自用图床
