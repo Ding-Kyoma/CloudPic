@@ -6,7 +6,7 @@ Hooinkyoma‘s 自用图床
 
 
 ### Step. 2 set picgo
-`picgo set uploade`
+`picgo set uploader`
 
 > repo: Ding-Kyoma/CloudPic
 
