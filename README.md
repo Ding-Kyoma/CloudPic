@@ -15,6 +15,7 @@ Hooinkyoma‘s 自用图床
 > path: img/
 
 > customUrl: https://raw.githubusercontent.com/Ding-Kyoma/CloudPic/master
+
 > customUrl: https://dingkyoma.coding.net/p/img/d/CloudPic/git/raw/master (国内)
 
 ### Step. 3 use new setting
