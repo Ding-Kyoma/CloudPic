@@ -31,3 +31,12 @@ Hooinkyoma‘s 自用图床
 /opt/homebrew/bin/picgo upload
 
 
+----
+## plugin
+### compress
+``` bash
+picgo add compress
+picgo use transformer
+picgo config plugin compress
+> image2webp
+```
